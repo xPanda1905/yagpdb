@@ -20,7 +20,7 @@ var BuiltinSwearWords = map[string]bool{
 	"buttplug":    true,
 	"clitoris":    true,
 	"cock":        true,
-	"cum":         true,
+	"cum":         false,
 	"cunt":        true,
 	"dick":        true,
 	"dildo":       true,
@@ -71,6 +71,6 @@ var BuiltinSwearWords = map[string]bool{
 	"asshole":     true,
 	"fvck":        true,
 	"asshat":      true,
-	"pu55y":       true,
-	"pen1s":       true,
+	"pu55y":       false,
+	"pen1s":       false,
 }
